@@ -34,6 +34,12 @@ A collection of practical, evidence-based digital tools designed to support clin
 - Includes:
   - Standard titration tables
   - High-dose warning (>300 mcg/kg/min)
+ 
+---
+## ⚠️ Medical Disclaimer
+
+This tool is intended for educational and clinical support purposes only.
+It does not replace clinical judgment. The author assumes no responsibility for misuse or clinical decisions based on this tool.
 
 ---
 
